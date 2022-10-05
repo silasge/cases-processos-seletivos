@@ -1,0 +1,15 @@
+name: case-endeavour
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - scipy
+  - python
+  - jupyterlab
+  - openpyxl
+  - lifelines
+prefix: C:\Users\silasge\miniconda3\envs\case-endeavour

@@ -1,0 +1,20 @@
+name: case-plusoft
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas
+  - python
+  - numpy
+  - scipy
+  - seaborn
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyterlab
+  - xlrd
+  - descartes
+  - optuna
+  - joblib
+  - plotly
+prefix: C:\Users\silasge\miniconda3\envs\case-plusoft
